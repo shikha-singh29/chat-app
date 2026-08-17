@@ -1,0 +1,15 @@
+node_modules
+# Environment
+.env
+.env.production
+
+# Virtual environment
+venv/
+env/
+
+# DB
+*.db
+.db
+
+lib/
+node_modules/
